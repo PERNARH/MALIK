@@ -1,0 +1,42 @@
+body {
+	    background-image: url("logo.png");
+    background-repeat: no-repeat;
+    background-position: top right;
+    margin-right: 200px;
+    background-attachment: none scroll;
+    background-color:#d0f0f6;
+}
+.underline{text-decoration: underline;
+
+}
+.text-center {
+	text-align: center !important;
+}
+.css{
+	text-decoration: none
+	!important;
+}
+
+.heading{
+	padding: 15px;
+	display: flex;
+	justify-content: space-between;
+	line-height: 10px;
+}
+h3{
+	float: right;
+	position: relative;
+}
+p{
+	line-height: 1.2em;
+}
+
+.center{
+
+};
+p.para{
+	font-size: 100px;
+}
+div.p2 {
+	background-color:#A4C639;
+}
